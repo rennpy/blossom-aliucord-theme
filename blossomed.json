@@ -2,7 +2,8 @@
     "manifest": {
         "name": "Blossomed",
         "version": "1.0",
-        "author": "ukivie"
+        "author": "ukivie",
+        "updater": "https:\/\/raw.githubusercontent.com\/ukivie\/blossom-aliucord-theme\/main\/blossomed.json"
     },
     "background": {
         "overlay_alpha": 0,
