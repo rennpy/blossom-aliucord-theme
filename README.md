@@ -1,2 +1,2 @@
-# blossom-aliucord-themes
+# blossom-aliucord-theme
 # screenshots
