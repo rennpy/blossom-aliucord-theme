@@ -1,6 +1,6 @@
 # Blossom-aliucord-theme
 # Preview
-# # **SCREENSHOTS NOT ENTIRELY ACCURATE DUE TO ANDROID 14*** 
+# **SCREENSHOTS NOT ENTIRELY ACCURATE DUE TO ANDROID 14*** 
 Font size is also much larger in preview so you can see it better. Resize to your liking in aliucord setting -> appearance
 
 
