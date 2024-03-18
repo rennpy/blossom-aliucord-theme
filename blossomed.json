@@ -11,12 +11,12 @@
         "blur_radius": 1
     },
     "fonts": {
-        "ginto_medium": "https:\/\/github.com\/ukivie\/blossom-aliucord-theme\/blob\/main\/GlacialIndifference-Regular.ttf",
-        "ginto_regular": "https:\/\/github.com\/ukivie\/blossom-aliucord-theme\/blob\/main\/GlacialIndifference-Regular.ttf",
-        "whitney_medium": "https:\/\/github.com\/ukivie\/blossom-aliucord-theme\/blob\/main\/GlacialIndifference-Regular.ttf",
-        "whitney_semibold": "https:\/\/github.com\/ukivie\/blossom-aliucord-theme\/blob\/main\/GlacialIndifference-Regular.ttf",
-        "ginto_bold": "https:\/\/github.com\/ukivie\/blossom-aliucord-theme\/blob\/main\/GlacialIndifference-Bold.ttf",
-        "whitney_bold": "https:\/\/github.com\/ukivie\/blossom-aliucord-theme\/blob\/main\/GlacialIndifference-Bold.ttf"
+        "ginto_bold": "https:\/\/github.com\/ukivie\/blossom-aliucord-theme\/raw\/main\/GlacialIndifference-Bold.ttf",
+        "ginto_medium": "https:\/\/github.com\/ukivie\/blossom-aliucord-theme\/raw\/main\/GlacialIndifference-Regular.ttf",
+        "ginto_regular": "https:\/\/github.com\/ukivie\/blossom-aliucord-theme\/raw\/main\/GlacialIndifference-Regular.ttf",
+        "whitney_bold": "https:\/\/github.com\/ukivie\/blossom-aliucord-theme\/raw\/main\/GlacialIndifference-Bold.ttf",
+        "whitney_medium": "https:\/\/github.com\/ukivie\/blossom-aliucord-theme\/raw\/main\/GlacialIndifference-Regular.ttf",
+        "whitney_semibold": "https:\/\/github.com\/ukivie\/blossom-aliucord-theme\/raw\/main\/GlacialIndifference-Regular.ttf"
     },
     "simple_colors": {
         "mention_highlight": 646496464,
